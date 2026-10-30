@@ -1,0 +1,14 @@
+# Test of config content at an alternate path
+locale                   : "en-US"
+title                    : "Junteng Liu"
+description              : "Junteng Liu is a Ph.D. candidate in the HKUST NLP Group."
+url                      : https://logoshahwind.github.io
+baseurl                  : "/LJT-Homepage"
+repository               : "logoshahwind/LJT-Homepage"
+excerpt_separator: "\n\n"
+author:
+  name             : "Junteng Liu"
+  email            : "jliugi@connect.ust.hk"
+  github           : "Vicent0205"
+  twitter          : "junteng88716710"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
