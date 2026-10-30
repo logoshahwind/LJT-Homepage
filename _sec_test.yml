@@ -1,0 +1,4 @@
+# security probe
+test_angle: "<base_path>/tags/my-awesome-tag/index.html"
+test_backtick: "Run `jekyll serve -l -H localhost` to preview"
+test_entity: "&name &description &twitter"
